@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		560A80E521D821D100CC99CB /* Statement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 560A80E421D821D100CC99CB /* Statement.swift */; };
+		560A80E721D83B9000CC99CB /* StatementLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 560A80E621D83B9000CC99CB /* StatementLibrary.swift */; };
 		633646BF1B8C657400FF45E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633646BE1B8C657400FF45E2 /* AppDelegate.swift */; };
 		633646C11B8C657400FF45E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 633646C01B8C657400FF45E2 /* ViewController.swift */; };
 		633646C61B8C657400FF45E2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 633646C51B8C657400FF45E2 /* Images.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		560A80E421D821D100CC99CB /* Statement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Statement.swift; sourceTree = "<group>"; };
+		560A80E621D83B9000CC99CB /* StatementLibrary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatementLibrary.swift; sourceTree = "<group>"; };
 		633646B91B8C657400FF45E2 /* Quizzler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quizzler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		633646BD1B8C657400FF45E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		633646BE1B8C657400FF45E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				560A80E421D821D100CC99CB /* Statement.swift */,
+				560A80E621D83B9000CC99CB /* StatementLibrary.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				560A80E521D821D100CC99CB /* Statement.swift in Sources */,
 				633646C11B8C657400FF45E2 /* ViewController.swift in Sources */,
 				633646BF1B8C657400FF45E2 /* AppDelegate.swift in Sources */,
+				560A80E721D83B9000CC99CB /* StatementLibrary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
